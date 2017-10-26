@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/colorPrimary"
-    tools:context="com.zsx.clocklockscreen.MainActivity">
+    tools:context="com.codezzz.clocklockscreen.MainActivity">
 
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar"
@@ -22,7 +22,7 @@
         android:text="@string/app_name"
         android:textColor="#ffffff"
         android:textSize="50sp"/>
-    <com.zsx.clocklockscreen.widget.FontTextView
+    <com.codezzz.clocklockscreen.widget.FontTextView
         android:id="@+id/tv_app_introduce"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"

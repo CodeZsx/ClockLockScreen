@@ -1,4 +1,4 @@
-package com.zsx.clocklockscreen;
+package com.codezzz.clocklockscreen;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -10,7 +10,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.RelativeLayout;
 
-import com.zsx.clocklockscreen.widget.ClockView;
+import com.codezzz.clocklockscreen.widget.ClockView;
 
 public class LockActivity extends AppCompatActivity{
 

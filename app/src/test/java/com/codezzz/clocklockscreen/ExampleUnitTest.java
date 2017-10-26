@@ -1,4 +1,4 @@
-package com.zsx.clocklockscreen;
+package com.codezzz.clocklockscreen;
 
 import org.junit.Test;
 

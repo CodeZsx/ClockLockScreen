@@ -1,4 +1,4 @@
-package com.zsx.clocklockscreen.widget;
+package com.codezzz.clocklockscreen.widget;
 
 import android.content.BroadcastReceiver;
 import android.content.Context;

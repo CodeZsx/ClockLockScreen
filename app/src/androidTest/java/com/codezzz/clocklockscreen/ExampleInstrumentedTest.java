@@ -1,4 +1,4 @@
-package com.zsx.clocklockscreen;
+package com.codezzz.clocklockscreen;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
